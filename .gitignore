@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# CSV data
+*.csv
+
+# PNG images
+*.png
